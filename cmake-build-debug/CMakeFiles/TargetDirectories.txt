@@ -1,0 +1,3 @@
+/Users/Armando09/Desktop/PROGRA/C++/competitive/codeRush/cmake-build-debug/CMakeFiles/codeRush.dir
+/Users/Armando09/Desktop/PROGRA/C++/competitive/codeRush/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Armando09/Desktop/PROGRA/C++/competitive/codeRush/cmake-build-debug/CMakeFiles/rebuild_cache.dir
